@@ -1,0 +1,10 @@
+
+we are going to use styled components at the end of programs creation
+(npm i styled-components @types/styled-components)
+
+- if we wanted to make a serious quiz app that wont show answers in the front end code, it's best to use a proxy api or a 
+  more legit quiz based api
+
+  - comments inside tags are required to be placed inside braces
+
+  - dangerouslySetHTML is dangerous becaus eyou never know what others might inject into it
