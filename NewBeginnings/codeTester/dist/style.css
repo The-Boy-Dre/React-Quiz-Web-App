@@ -1,0 +1,16 @@
+
+body {
+  background-color: antiquewhite;
+}
+
+#go {
+color: green;
+}
+
+#stop {
+color: red;
+}
+
+#words {
+  color: blue;
+}
